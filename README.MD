@@ -30,7 +30,7 @@
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=meneguite&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=meneguite&show_icons=true&count_private=true)
 
 [website]: https://meneguite.com
 [linkedin]: https://linkedin.com/in/ronaldomeneguite
